@@ -1,0 +1,1 @@
+An example about menu navigation.
